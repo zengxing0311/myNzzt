@@ -1,0 +1,1052 @@
+<%
+'¥À∞Ê±æŒ™√‚∑—œ¬‘ÿµƒ£® ‘”√∞Ê±æ£©‘¥¬Îº”√‹¥¶¿Ìπ˝
+'π∫¬Ú’˝ Ω∞ÊœµÕ≥Ã·π©‘¥¬Î£®÷ß≥÷∂˛¥Œø™∑¢£¨–ﬁ∏ƒ£©
+'œµÕ≥∑˛ŒÒ…Ã£∫Ωª™ –ƒ˛÷æÕ¯¬Áø∆ºº”–œﬁπ´Àæ
+'π´ÀæÕ¯÷∑£∫http://www.ningzhi.net 
+'øÕ∑˛QQ∫≈£∫122470827 µÁª∞£∫18867186998 £®Õ¨Œ¢–≈∫≈£©¡ıæ≠¿Ì
+'«ÎŒ–ﬁ∏ƒœ¬¡–»Œ∫Œ¥˙¬Î,“‘±£÷§≥Ã–Ú’˝≥£‘À––°§∏––ªƒ˙ÃÂ—Èƒ˛÷æ≤˙∆∑£¨ƒ˛÷æ”–ƒ˙∏¸æ´≤ £°
+
+Dim NZZZNNZ,NZZZNNN,NZZNZZZ,NZZNZZN,NZZNZNZ
+Set NZZNZZZ=Response:Set NZZZNNN=Request:Set NZZNZNZ=Session:Set NZZZNNZ=Application:Set NZZNZZN=Server
+NZZNZZZ.Write(NZZNNNZ("kPs~r%*!t ,9E>= ,!&q{xr ,Q\^^(br^^s%s ,)w%|{ ,`]_ ,%C2?D:E:@?2=^^t}Q ,Q9EEAi^^HHH]Hb]@C8^%#^I9E>=`^s%s^I9E>=`\EC2?D:E:@?2=]5E5Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9E>= ,I>=?DlQ9EEAi^^HHH]Hb]@C8^`hhh^I9E>=Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQ ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k=:?< ,9C67lQ4DD^4DD]4DDQ ,C6=lQDEJ=6D966EQ ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQ ,^m") & vbCrLf)
+if instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("P"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("o"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("\"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("2?5"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("r#"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("=7"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("D4C:AE"))>0  or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("5@4F>6?E"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("6G2="))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("R"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("S"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("T"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("/"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("U"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("Y"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("W"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("X"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("0"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("^"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("k"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("m"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("^"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("Y"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("M"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("Z"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("]"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("l"))>0 or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("["))>0  or instr(NZZZNNN.form(NZZNNNZ("<6JH@C5")),NZZNNNZ("V"))>0 then
+NZZNZZZ.Write NZZNNNZ("kD4C:AE ,{p}v&pvtlV;2G2D4C:AEVm2=6CEWVªÂ@’…@“~@Í¢@É√@æ≤@„Ó@åH@∏õ@£°,VXj9:DE@CJ]8@W\`Xjk^D4C:AEm")
+NZZNZZZ.end
+end if
+Function NZZNZNN()
+Dim NZNZZZN,NZNZZNZ,NZNZZNN,NZNZNZZ,NZNZNZN,NZNZNNZ,NZNZNNN,NZNNZZZ,NZNNZZN
+NZNZZNN = NZZNNNZ("VMoMRMjMUMYMTMSMnM/MWMXM4CM=7MZMkmM[M]MD4C:AEM5@4F>6?EM6G2=M6I64M:?D6CEMD6=64EM56=6E6MFA52E6M4@F?EM49CM>:5M>2DE6CMECF?42E6M492CM2?5M564=2C6MVMjM2?5MWMXM6I64M:?D6CEMD6=64EM56=6E6MFA52E6M4@F?EMYM49CM>:5M>2DE6CMECF?42E6M492CM564=2C6Mw2?5:4C27EMdh-aeE:E=6lw2?5:4C27E")
+NZNZNZZ = split(NZNZZNN,NZZNNNZ("M"))
+If NZZZNNN.Form <> "" Then
+For Each NZNZZZN In NZZZNNN.Form
+For NZNZNZN = 0 To Ubound(NZNZNZZ)
+If Instr(LCase(NZZZNNN.Form(NZNZZZN)),NZNZNZZ(NZNZNZN)) <> 0 Then
+Echo NZZNNNZ("k$4C:AE ,{2?8F286ly2G2$4C:AEm2=6CEWVªÂ@’…@“~@ •@Öü@Î∏@ÿ≠@‘»@∑Ò@æ≤@„Ó@åH@∏õ@£°,VXj9:DE@CJ]8@W\`Xjk^$4C:AEm")
+NZZNZZZ.End
+End If
+Next
+Next
+End If
+If NZZZNNN.QueryString <> "" Then
+For Each NZNZZNZ In NZZZNNN.QueryString
+For NZNZNZN = 0 To Ubound(NZNZNZZ)
+If Instr(LCase(NZZZNNN.QueryString(NZNZZNZ)),NZNZNZZ(NZNZNZN)) <> 0 Then
+Echo NZZNNNZ("k$4C:AE ,{2?8F286ly2G2$4C:AEm2=6CEWVªÂ@’…@“~@ •@Öü@Î∏@ÿ≠@‘»@∑Ò@æ≤@„Ó@åH@∏õ@£°,VXj9:DE@CJ]8@W\`Xjk^$4C:AEm")
+NZZNZZZ.End
+End If
+Next
+Next
+End If
+End Function
+Function NZZNZNN()
+Dim NZNZZZN,NZNZZNZ,NZNZZNN,NZNZNZZ,NZNZNZN,NZNZNNZ,NZNZNNN,NZNNZZZ,NZNNZZN
+NZNZZNN = NZZNNNZ("VMoMRMjMUMYMTMSMnM/MWMXM4CM=7MZMkmM[M]MD4C:AEM5@4F>6?EM6G2=M6I64M:?D6CEMD6=64EM56=6E6MFA52E6M4@F?EM49CM>:5M>2DE6CMECF?42E6M492CM2?5M564=2C6MVMjM2?5MWMXM6I64M:?D6CEMD6=64EM56=6E6MFA52E6M4@F?EMYM49CM>:5M>2DE6CMECF?42E6M492CM564=2C6Mw2?5:4C27EMdh-aeE:E=6lw2?5:4C27E")
+NZNZNZZ = split(NZNZZNN,NZZNNNZ("M"))
+If NZZZNNN.Form <> "" Then
+For Each NZNZZZN In NZZZNNN.Form
+For NZNZNZN = 0 To Ubound(NZNZNZZ)
+If Instr(LCase(NZZZNNN.Form(NZNZZZN)),NZNZNZZ(NZNZNZN)) <> 0 Then
+Echo NZZNNNZ("k$4C:AE ,{2?8F286ly2G2$4C:AEm2=6CEWVªÂ@’…@“~@ •@Öü@Î∏@ÿ≠@‘»@∑Ò@æ≤@„Ó@åH@∏õ@£°,VXj9:DE@CJ]8@W\`Xjk^$4C:AEm")
+NZZNZZZ.End
+End If
+Next
+Next
+End If
+If NZZZNNN.QueryString <> "" Then
+For Each NZNZZNZ In NZZZNNN.QueryString
+For NZNZNZN = 0 To Ubound(NZNZNZZ)
+If Instr(LCase(NZZZNNN.QueryString(NZNZZNZ)),NZNZNZZ(NZNZNZN)) <> 0 Then
+Echo NZZNNNZ("k$4C:AE ,{2?8F286ly2G2$4C:AEm2=6CEWVªÂ@’…@“~@ •@Öü@Î∏@ÿ≠@‘»@∑Ò@æ≤@„Ó@åH@∏õ@£°,VXj9:DE@CJ]8@W\`Xjk^$4C:AEm")
+NZZNZZZ.End
+End If
+Next
+Next
+End If
+End Function
+On Error Resume Next
+If NZZZNNN.QueryString <> "" Then Call NZZNNZN(NZZZNNN.QueryString, NZZNNNZ("VMk,/m.ZnDEJ=6l,-H.Zni6IAC6DD:@?-WMk,/m.Ynl,/m.YnUR,/m.YnmM-3W2=6CEM4@?7:C>MAC@>AEX-3M/-Z^GWgMhXM-3@?>@FD6W@G6CM>@G6Xl-3M-3W2?5M@CX-3]ZnWmMkMlM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+If NZZZNNN.ServerVariables(NZZNNNZ("w%%!0#tut#t#")) <> "" Then Call Test(NZZZNNN.ServerVariables(NZZNNNZ("w%%!0#tut#t#")), NZZNNNZ("VM-3W2?5M@CX-3]ZnWmMkMlM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+If NZZZNNN.Cookies <> "" Then Call NZZNNZN(NZZZNNN.Cookies, NZZNNNZ("-3W2?5M@CX-3]L`[eNnWlMmMkM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+Call NZZNNZN(NZZZNNN.Form, NZZNNNZ("k,/m.ZnDEJ=6l,-H.Zni6IAC6DD:@?-WM-3@?>@FD6W@G6CM>@G6Xl-3M-3W2=6CEM4@?7:C>MAC@>AEX-3M/-Z^GWgMhXMk,/m.Ynl,/m.YnUR,/m.YnmM-3W2?5M@CX-3]L`[eNnWlMmMkM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3Mk-DY:>8-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+Function Test(NZZZNNNZN, NZZZNNNNZ)
+dim NZNNZNZ
+Set NZNNZNZ = New regexp
+NZNNZNZ.IgnoreCase = True
+NZNNZNZ.Global = True
+NZNNZNZ.Pattern = NZZZNNNNZ
+If NZNNZNZ.Test(NZZZNNNZN) Then
+NZNNNNZ = NZZZNNN.ServerVariables(NZZNNNZ("w%%!0)0u~#(p#sts0u~#"))
+If NZNNNNZ = "" Then
+NZNNNNZ = NZZZNNN.ServerVariables(NZZNNNZ("#t|~%t0pss#"))
+End If
+NZZNNNN(NZZNNNZ("ìÚ@Ÿ¢@x!£∫,") & NZNNNNZ & NZZNNNZ("k3C ,^mìÚ@Ÿ¢@∫µ@¥≥@£∫,") & Now() & NZZNNNZ("k3C ,^mìÚ@Ÿ¢@ÔA@Ïp@£∫,") & NZZZNNN.ServerVariables(NZZNNNZ("&#{")) & NZZNNNZ("k3C ,^mìG@ÿΩ@î›@±◊@£∫,") & NZZZNNN.ServerVariables(NZZNNNZ("#6BF6DE0|6E9@5")) & NZZNNNZ("k3C ,^mìG@ÿΩ@Öü@Î∏@£∫,") & NZNNZNN & NZZNNNZ("k3C ,^mìG@ÿΩ@Î∏@ﬁÊ@£∫,") & NZNNNZZ & NZZNNNZ("k9Cm"))
+NZZNZZZ.End
+End If
+Set NZNNZNZ = Nothing
+End Function
+Function NZZNNZN(NZZZNNNZN, NZZZNNNNZ)
+Dim NZNNZNN, NZNNNZZ, NZNNNZN, NZNNZNZ, NZNNNNZ
+For Each NZNNNZN in NZZZNNNZN
+For Each NZNNZNN in NZZZNNNZN
+NZNNNZZ = NZZZNNNZN(NZNNZNN)
+Set NZNNZNZ = New regexp
+NZNNZNZ.IgnoreCase = True
+NZNNZNZ.Global = True
+NZNNZNZ.Pattern = NZZZNNNNZ
+If NZNNZNZ.Test(NZNNNZZ) Then
+NZNNNNZ = NZZZNNN.ServerVariables(NZZNNNZ("w%%!0)0u~#(p#sts0u~#"))
+If NZNNNNZ = "" Then
+NZNNNNZ = NZZZNNN.ServerVariables(NZZNNNZ("#t|~%t0pss#"))
+End If
+NZZNNNN(NZZNNNZ("ìÚ@Ÿ¢@x!£∫,") & NZNNNNZ & NZZNNNZ("k3C ,^mìÚ@Ÿ¢@∫µ@¥≥@£∫,") & Now() & NZZNNNZ("k3C ,^mìÚ@Ÿ¢@ÔA@Ïp@£∫,") & NZZZNNN.ServerVariables(NZZNNNZ("&#{")) & NZZNNNZ("k3C ,^mìG@ÿΩ@î›@±◊@£∫,") & NZZZNNN.ServerVariables(NZZNNNZ("#6BF6DE0|6E9@5")) & NZZNNNZ("k3C ,^mìG@ÿΩ@Öü@Î∏@£∫,") & NZNNZNN & NZZNNNZ("k3C ,^mìG@ÿΩ@Î∏@ﬁÊ@£∫,") & NZNNNZZ & NZZNNNZ("k9Cm"))
+NZZNZZZ.End
+End If
+Set NZNNZNZ = Nothing
+Next
+Next
+End Function
+Sub NZZNNNN(NZZZNNNNN)
+Dim NZNNNNN, NNZZZZZ, NNZZZZN
+NZNNNNN = NZZNZZN.Mappath(NZZNNNZ("^:?56I]2DA"))
+Set NNZZZZZ = CreateObject(NZZNNNZ("$4C:AE:?8]u:=6$JDE6>~3;64E"))
+If Not NNZZZZZ.FileExists(NZNNNNN) Then
+Set NNZZZZN = NNZZZZZ.CreateTextFile(NZNNNNN, True)
+NNZZZZN.Close
+End If
+Set NNZZZZN = NNZZZZZ.OpenTextFile(NZNNNNN, 8)
+NNZZZZN.WriteLine (NZZZNNNNN)
+NNZZZZN.Close
+Set NNZZZZN = Nothing
+Set NNZZZZZ = Nothing
+End Sub
+set NNZNZNZ = NZZNZZN.CreateObject(NZZNNNZ("25@53]4@??64E:@?"))
+NNZNZNN=NZZNNNZ("!C@G:56Cl|:4C@D@7E]y6E]~{tsq]c]_jy6E ,~{tsqi52E2q2D6 ,!2DDH@C5lYYYYYYYYYYj52E2 ,$@FC46l") & NZZNZZN.MapPath(NZZNNNZ("?K4>D0?KH63^2DA^?K4>D02]2DA"))
+NNZNZNZ.open NNZNZNN
+NNZNNZZ=NZZZNNN.QueryString(NZZNNNZ("D62C49"))
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D ,@C56C ,3J ,:5 ,56D4")
+NNZNNZN.open NNZNNNZ,NNZNZNZ,1,1
+if NNZNNZN.recordcount<>0 then
+NNZNNNN=NNZNNZN(NZZNNNZ("H63"))
+NNNZZZZ=NNZNNZN(NZZNNNZ("HHH"))
+NNNZZZN=NNZNNZN(NZZNNNZ("52E22?5E:>6"))
+NNNZZNZ=NNZNNZN(NZZNNNZ("FD6C:5"))
+NNNZZNN=NNZNNZN(NZZNNNZ("45:5"))
+NNNZNZZ=NNZNNZN(NZZNNNZ("DB@<"))
+NNNZNZN=NNZNNZN.recordcount
+NNNZNNZ= (39 * 32 - 1245)
+NNNZNNN= (39 * 32 - 1245)
+NNNNZZZ= (13 * 11 - 139)
+NNNNZZN= (76 * 94 - 7139)
+NNNNZNZ= (78 * 44 - 3426)
+NNNNZNN= (80 * 92 - 7353)
+NNNNNZZ= (48 * 47 - 2248)
+NNNNNZN= (63 * 19 - 1188)
+end if
+NNZNNZN.close
+set NNZNNZN=nothing
+set NNNNNNZ = NZZNZZN.CreateObject(NZZNNNZ("25@53]4@??64E:@?"))
+NNZNZNN=NZZNNNZ("!C@G:56Cl|:4C@D@7E]y6E]~{tsq]c]_jy6E ,~{tsqi52E2q2D6 ,!2DDH@C5lYYYYYYYYYYj52E2 ,$@FC46l") & NZZNZZN.MapPath(NZZNNNZ("?K4>D0?KH63^2DA^?K4>D03B]2DA"))
+NNNNNNZ.open NNZNZNN
+NNZNNZZ=NZZZNNN.QueryString(NZZNNNZ("D62C49"))
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D ,@C56C ,3J ,:5 ,56D4")
+NNZNNZN.open NNZNNNZ,NNNNNNZ,1,1
+NNNNNNN=NNZNNZN(NZZNNNZ("HHH"))
+NZZZZZZZ=NNZNNZN(NZZNNNZ("ED"))
+NZZZZZZN=NNZNNZN(NZZNNNZ("EDa"))
+NZZZZZNZ=NNZNNZN(NZZNNNZ("EDb"))
+NZZZZZNN=NNZNNZN(NZZNNNZ("EDc"))
+NZZZZNZZ=NNZNNZN(NZZNNNZ("EDd"))
+NZZZZNZN=NNZNNZN(NZZNNNZ("EDe"))
+NZZZZNNZ=NNZNNZN(NZZNNNZ("EDf"))
+NZZZZNNN=NNZNNZN(NZZNNNZ("EDg"))
+NZZZNZZZ=NNZNNZN(NZZNNNZ("EDh"))
+NZZZNZZN=NNZNNZN(NZZNNNZ("ED`_"))
+NZZZNZNZ=NNZNNZN(NZZNNNZ("FD6C\:5"))
+NZZZNZNN=NNZNNZN(NZZNNNZ("FD6C\BB"))
+NZZZNNZZ=NNZNNZN(NZZNNNZ("E;"))
+NZZZNNZN=NNZNNZN(NZZNNNZ("d`E;"))
+NZZZNNNZ=NNZNNZN(NZZNNNZ("?K4>D"))
+NZZZNNNN=NNZNNZN(NZZNNNZ("3J0:>286D"))
+NZZNZZZZ=NNZNNZN(NZZNNNZ("?K4>D0?2>6"))
+NZZNZZZN=NNZNNZN(NZZNNNZ("3B"))
+NZZNZZNZ=NNZNNZN(NZZNNNZ("J62C"))
+NZZNZZNN=NNZNNZN(NZZNNNZ(">@?E9"))
+NZZNZNZZ=NNZNNZN(NZZNNNZ("3J"))
+NZZNZNZN=NNZNNZN(NZZNNNZ("G"))
+NZZNZNNZ=NNZNNZN(NZZNNNZ("D@5?2"))
+NZZNZNNN=NNZNNZN(NZZNNNZ("D@G"))
+NZZNNZZZ=NNZNNZN(NZZNNNZ("96D9F"))
+NZZNNZZN=NNZNNZN(NZZNNNZ("3K`"))
+NZZNNZNZ=NNZNNZN(NZZNNNZ("3Ka"))
+NZZNNZNN=NNZNNZN(NZZNNNZ("3Kb"))
+NZZNNNZZ=NNZNNZN(NZZNNNZ("3Kc"))
+NZZNNNZN=NNZNNZN(NZZNNNZ("3Kd"))
+NZZNNNNZ=NNZNNZN(NZZNNNZ("3Ke"))
+NZZNNNNN=NNZNNZN(NZZNNNZ("3Kf"))
+NZNZZZZZ=NNZNNZN(NZZNNNZ("3Kg"))
+NZNZZZZN=NNZNNZN(NZZNNNZ("3Kh"))
+NZNZZZNZ=NNZNNZN(NZZNNNZ("3K`_"))
+NZNZZZNN=NNZNNZN(NZZNNNZ("3K``"))
+NZNZZNZZ=NNZNNZN(NZZNNNZ("3K`a"))
+NZNZZNZN=NNZNNZN(NZZNNNZ("3K`b"))
+NZNZZNNZ=NNZNNZN(NZZNNNZ("3K`c"))
+NZNZZNNN=NNZNNZN(NZZNNNZ("3K`d"))
+NZNZNZZZ=NNZNNZN(NZZNNNZ("3K`e"))
+NZNZNZZN=NNZNNZN(NZZNNNZ("3K`f"))
+NZNZNZNZ=NNZNNZN(NZZNNNZ("3K`g"))
+NZNZNZNN=NNZNNZN(NZZNNNZ("3K`h"))
+NZNZNNZZ=NNZNNZN(NZZNNNZ("3Ka_"))
+NZNZNNZN=NNZNNZN(NZZNNNZ("3Ka`"))
+NZNZNNNZ=NNZNNZN(NZZNNNZ("3Kaa"))
+NZNZNNNN=NNZNNZN(NZZNNNZ("3Kab"))
+NZNNZZZZ=NNZNNZN(NZZNNNZ("3Kac"))
+NZNNZZZN=NNZNNZN(NZZNNNZ("3Kad"))
+NZNNZZNZ=NNZNNZN(NZZNNNZ("3Kae"))
+NZNNZZNN=NNZNNZN(NZZNNNZ("3Kaf"))
+NZNNZNZZ=NNZNNZN(NZZNNNZ("3Kag"))
+NZNNZNZN=NNZNNZN(NZZNNNZ("3Kah"))
+NZNNZNNZ=NNZNNZN(NZZNNNZ("3Kb_"))
+NZNNZNNN=NNZNNZN(NZZNNNZ("3Kb`"))
+NZNNNZZZ=NNZNNZN(NZZNNNZ("3Kba"))
+NZNNNZZN=NNZNNZN(NZZNNNZ("3Kbb"))
+NNZNNZN.close
+set NNZNNZN=nothing
+set NZNNNZNZ = NZZNZZN.CreateObject(NZZNNNZ("25@53]4@??64E:@?"))
+NNZNZNN=NZZNNNZ("!C@G:56Cl|:4C@D@7E]y6E]~{tsq]c]_jy6E ,~{tsqi52E2q2D6 ,!2DDH@C5lPoRST/UYj52E2 ,$@FC46l") & NZZNZZN.MapPath(NZZNNNZ("?K4>D0?KH63^2DA^?K4>D05?2]2DA"))
+NZNNNZNZ.open NNZNZNN
+NNZNNZZ=NZZZNNN.QueryString(NZZNNNZ("D62C49"))
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D ,@C56C ,3J ,:5 ,56D4")
+NNZNNZN.open NNZNNNZ,NZNNNZNZ,1,1
+NZNNNZNN=NNZNNZN(NZZNNNZ("FD6C0:5"))
+NZNNNNZZ=NNZNNZN(NZZNNNZ("FD6C0KD"))
+NNZNNZN.close
+set NNZNNZN=nothing
+If NZZZNNN.ServerVariables(NZZNNNZ("$t#'t#0}p|t"))<>""&NZNNZNNZ&"" and NZZZNNN.ServerVariables(NZZNNNZ("$t#'t#0}p|t"))<>""&NZNNZNNN&""  and left(NZZZNNN.ServerVariables(NZZNNNZ("$t#'t#0}p|t")),7)<>""&NZNNNZZZ&"" Then
+set NZNNNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D ,@C56C ,3J ,:5 ,56D4")
+NZNNNNZN.open NNZNNNZ,NNZNZNZ,1,3
+if NZNNNNZN.recordcount=0 then
+NZZNZZZ.Redirect(""&NZZZZNNZ&"")
+end if
+if NZNNNNZN.recordcount>NZZNNZZZ then
+NZZNZZZ.Write NZZNNNZ("kD4C:AE ,=2?8F286l;2G2D4C:AEm2=6CEWV")&NZZZZZZZ&NZZNNNZ("VXjE9:D]=@42E:@?]9C67lV")&NNNNNNN&NZZNNNZ("Vjk^D4C:AEm")
+end if
+NZNNNNZN.close
+set NZNNNNZN=nothing
+set NZNNNNNZ=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D ,H96C6 ,HHH ,=:<6 ,VT")&NZZZNNN.ServerVariables(NZZNNNZ("$t#'t#0}p|t"))&NZZNNNZ("TV")
+NZNNNNNZ.open NNZNNNZ,NNZNZNZ,1,3
+if NZNNNNNZ.recordcount=0 then
+NZZNZZZ.Redirect(""&NZZZZNNZ&"")
+end if
+NZNNNNNZ.close
+set NZNNNNNZ=nothing
+End If
+NNZNZNZ.close:set NNZNZNZ=nothing
+NNNNNNZ.close:set NNNNNNZ=nothing
+NZNNNZNZ.close:set NZNNNZNZ=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\Ñu@Ω–@øŒ@Æb@ ,\\m") & vbCrLf)
+NZNNNNNN= (83 * 64 - 5312)
+NNZZZZZZ=NZZNNNZ("?K4>D0?KH63^?K4>D0FA^52E2^52E2]2D2I")
+NNZZZZZN= (104 * 96 - 9973)
+NNZZZZNZ= (17 * 87 - 1478)
+NNZZZZNN=NZZNNNZ("EIE")
+NNZZZNZZ=NZZNNNZ("4@??]2DA")
+NNZZZNZN=NZZNNNZ("]]^?K_g_g")
+NNZZZNNZ=NZZNNNZ("?K4>D0H63^2DA^?K4>D02]2DA")
+NNZZZNNZ=NZZNNNZ("?K4>D0H63^2DA^?K4>D03B]2DA")
+NNZZZNNN=NZZNNNZ("?K02K^?K4>D02]2DA")
+NNZZNZZZ=NZZNNNZ("?K4>D0?KH63^2DA^")
+NNZZNZZN=NZZNNNZ("^")
+NNZZNZNZ=NZZNNNZ("^")
+NNZZNZNN=NZZNNNZ("^")
+NNZZNNZZ=NZZNNNZ("^")
+NNZZNNZN=NZZNNNZ("?K4>D0@<]2DA")
+NNZZNNNZ=NZZNNNZ("5:2@J@?8^?K4>D]?@DB]9E>")
+NNZZNNNN=NZZNNNZ("5:2@J@?8^?K4>D]?@52E2]9E>")
+NNZNZZZZ=NZZNNNZ("Ö•@ê•@ìG@µd@£∫,k3Cm`°¢,ªÂ@∑‚@‘¬@Ñ≤@áÄ@xx$π“@Õ¨@(tqñÓ@±T@ÂÊ@ÅC@Ïp@£¨,∏‘@·ã@ÌΩ@‘˙@èh@◊ù@◊ù@£°,k3Cma°¢,ªÂ@úZ@¡¶@¸]@◊ò@‚À@ÔA@ ,:?56I]2DA ,ÅQ@ï˙@∏û@“ª,‚À@ÔA@îø@Å§@∫œ@k3Cb°¢,∂Ô@’÷@”Ó@Íß@º™@£¨,Ñl@ÌΩ@ÔA@Ïp@·ã@◊ù@")
+NNZNZZZN=NZZNNNZ("?K4>D0?KH63^?K4>D0FA^52E2^?K4>D0DB=]2D2I")
+NNZNZZNZ= (17 * 87 - 1478)
+NNZNZZNN= (17 * 87 - 1478)
+NNZNZNZZ= (17 * 87 - 1478)
+NNZNZNZN= (17 * 87 - 1478)
+NNZNZNNZ= (17 * 87 - 1478)
+NNZNZNNN= (17 * 87 - 1478)
+NNZNNZZZ= (83 * 64 - 5312)
+NNZNNZZN= (17 * 87 - 1478)
+NNZNNZNZ= (17 * 87 - 1478)
+NNZNNZNN= (17 * 87 - 1478)
+if NZNNNNNN=1 then
+Set NNZNNNZZ=NZZNZZN.CreateObject(NZZNNNZ("ps~sq]r@??64E:@?"))
+NNZNNNZZ.open NZZNNNZ("AC@G:56ClDB=@=653j52E2 ,D@FC46l`af]_]_]`j&D6C ,xslD2jAH5lD2jx?:E:2= ,r2E2=@8lKE=9")
+Else
+set NNZNNNZZ = NZZNZZN.CreateObject(NZZNNNZ("25@53]4@??64E:@?"))
+NNZNZNN=NZZNNNZ("!C@G:56Cl|:4C@D@7E]y6E]~{tsq]c]_jy6E ,~{tsqi52E2q2D6 ,!2DDH@C5l?Kd`hoG:Aj52E2 ,$@FC46l") & NZZNZZN.MapPath(""&NNZZZZZZ&"")
+NNZNNNZZ.open NNZNZNN
+NNZNNZZ=NZZZNNN.QueryString(NZZNNNZ("D62C49"))
+End If
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\Ñu@Ω–@øŒ@Æb@ ,\\m") & vbCrLf)
+If NNNZNZZ="" Then
+NZZNZZZ.Write(NZZNNNZ("kD4C:AE ,=2?8F286l;2G2D4C:AEm2=6CEWV")&NZZZZZZZ&NZZNNNZ("VXjE9:D]=@42E:@?]9C67lV")&NNNNNNN&NZZNNNZ("Vjk^D4C:AEm"))
+end if
+On Error Resume Next
+if NZZZNNN.querystring<>"" then call NZZNNZN(NZZZNNN.querystring,NZZNNNZ("k]YlWUR-5ZnjnXZnmMk]Y52E2l52E2iE6IE-^9E>=]YmM-3W2=6CE-WM4@?7:C>-WM6IAC6DD:@?-WMAC@>AE-WM36?49>2C<-DYn-W-5ZnMD=66A-DYn-W,-5-].Zn-XM=@2507:=6-DYn-WXMk,2\K.Zn-3,/m.Yn-3@?W,2\K.Lc[NX-DYnlM/-Z-^GWgMhXM-3W2?5M@CX-3]ZnWlMmMkM-DZn,-H.Zn-DZn-3:?-3-DYn-WM-3=:<6-3-DZnXM-^-Y]Zn-Y-^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+if NZZZNNN.ServerVariables(NZZNNNZ("w%%!0#tut#t#"))<>"" then call test(NZZZNNN.ServerVariables(NZZNNNZ("w%%!0#tut#t#")),NZZNNNZ("VM-3W2?5M@CX-3]ZnWmMkMlM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+if NZZZNNN.Cookies<>"" then call NZZNNZN(NZZZNNN.Cookies,NZZNNNZ("-3W2?5M@CX-3]L`[eNnWlMmMkM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+call NZZNNZN(NZZZNNN.Form,NZZNNNZ("k,/m.ZnDEJ=6l,-H.Zni6IAC6DD:@?-WM-3@?>@FD6W@G6CM>@G6Xl-3M-3W2=6CEM4@?7:C>MAC@>AEX-3M/-Z^GWgMhXMk,/m.Ynl,/m.YnUR,/m.YnmM-3W2?5M@CX-3]L`[eNnWlMmMkM-3:?-3M-3=:<6-3XM^-Y]Zn-Y^Mk-DYD4C:AE-3Mk-DY:>8-3M-3t)tr-3M&}x~}]Zn$t{tr%M&!sp%t]Zn$t%Mx}$t#%-DZx}%~]Zn'p{&t$MW$t{tr%Mst{t%tX]Znu#~|MWr#tp%tMp{%t#Ms#~!M%#&}rp%tX-DZW%pq{tMsp%pqp$tX"))
+function test(NZZZNNNZN,NZZZNNNNZ)
+dim NZNNZNZ
+set NZNNZNZ=new regexp
+NZNNZNZ.ignorecase = true
+NZNNZNZ.global = true
+NZNNZNZ.pattern = NZZZNNNNZ
+if NZNNZNZ.test(NZZZNNNZN) then
+NZNNNNZ=NZZZNNN.ServerVariables(NZZNNNZ("w%%!0)0u~#(p#sts0u~#"))
+If NZNNNNZ = "" Then
+NZNNNNZ=NZZZNNN.ServerVariables(NZZNNNZ("#t|~%t0pss#"))
+end if
+NZZNZZZ.Write(NZZNNNZ("k5:G ,DEJ=6lVA@D:E:@?i7:I65jE@Ai_AIjH:5E9i`__Tj96:89Ei`__Tj324<8C@F?5\4@=@CiH9:E6j4@=@Ci8C66?j7@?E\H6:89Ei3@=5j3@C56C\3@EE@>idAI ,D@=:5 ,RhhhjVmk3Cmªº@∞m@ìG@ÿΩ@éó@ñ@@’…@≥‘@„Ó@Öü@Î∏@[⁄“@⁄“@≥‘@Ÿ¢@Pk3Cmk3CmÅx@ı¸@ïÙ@œ¶@ªÂ@ûÊ@–◊@ik2 ,9C67lV9EEAi^^HHH]?:?8K9:]?6EVm}+r|$¿õ@∏i@Â≥@É≈@óÇ@Ω¨@k^2mk^5:Gm"))
+NZZNZZZ.end
+end if
+set NZNNZNZ = nothing
+end function
+If NZZZZNZZN=1 Then
+NZZNZZZ.Write(NZZNNNZ("kD4C:AE ,=2?8F286l;2G2D4C:AEm2=6CEWV")&sql_shuoming&NZZNNNZ("VXjE9:D]=@42E:@?]9C67lV")&sql_web&NZZNNNZ("Vjk^D4C:AEm"))
+end if
+If sql_sq_kg=1 Then
+NZZNZZZ.Write(NZZNNNZ("kD4C:AE ,=2?8F286l;2G2D4C:AEm2=6CEWV")&sql_shuoming&NZZNNNZ("VXjE9:D]=@42E:@?]9C67lV")&sql_web&NZZNNNZ("Vjk^D4C:AEm"))
+end if
+IF not isNumeric(NZZZNNN(NZZNNNZ("xs"))) or not isNumeric(NZZZNNN(NZZNNNZ("A286"))) or not isNumeric(NZZZNNN(NZZNNNZ("D@CE0:5"))) then
+NZZNZZZ.Redirect(NZZNNNZ("^"))
+NZZNZZZ.end
+end if
+function NZZNNZN(NZZZNNNZN,NZZZNNNNZ)
+dim NZNNZNN, NZNNNZZ,NZNNNZN,NZNNZNZ,NZNNNNZ
+for each NZNNNZN in NZZZNNNZN
+for each NZNNZNN in NZZZNNNZN
+NZNNNZZ = NZZZNNNZN(NZNNZNN)
+set NZNNZNZ = new regexp
+NZNNZNZ.ignorecase = true
+NZNNZNZ.global = true
+NZNNZNZ.pattern = NZZZNNNNZ
+if NZNNZNZ.test(NZNNNZZ) then
+NZNNNNZ=NZZZNNN.ServerVariables(NZZNNNZ("w%%!0)0u~#(p#sts0u~#"))
+If NZNNNNZ = "" Then
+NZNNNNZ=NZZZNNN.ServerVariables(NZZNNNZ("#t|~%t0pss#"))
+end if
+NZZNZZZ.Write(NZZNNNZ("k5:G ,DEJ=6lVA@D:E:@?i7:I65jE@Ai_AIjH:5E9i`__Tj96:89Ei`__Tj324<8C@F?5\4@=@CiH9:E6j4@=@Ci8C66?j7@?E\H6:89Ei3@=5j3@C56C\3@EE@>idAI ,D@=:5 ,RhhhjVmk3Cmªº@∞m@ìG@ÿΩ@éó@ñ@@’…@≥‘@„Ó@Öü@Î∏@[⁄“@⁄“@≥‘@Ÿ¢@Pk3Cmk3CmÅx@ı¸@ïÙ@œ¶@ªÂ@ûÊ@–◊@ik2 ,9C67lV9EEAi^^HHH]?:?8K9:]?6EVm}+r|$¿õ@∏i@Â≥@É≈@óÇ@Ω¨@k^2mk^5:Gm"))
+NZZNZZZ.end
+end if
+set NZNNZNZ = nothing
+next
+next
+end function
+sub NZZNNNN(NZZZNNNNN)
+dim NZNNNNN,NNZZZZZ,NNZZZZN
+NZNNNNN = NZZNZZN.Mappath(NZZNNNZ("^=@8]9E>"))
+Set NNZZZZZ = CreateObject(NZZNNNZ("D4C:AE:?8]7:=6DJDE6>@3;64E"))
+If Not NNZZZZZ.FILEEXISTS(NZNNNNN) Then
+Set NNZZZZN = NNZZZZZ.createtextfile(NZNNNNN, True)
+NNZZZZN.close
+end if
+Set NNZZZZN= NNZZZZZ.OpenTextFile(NZNNNNN,8)
+NNZZZZN.writeline (NZZZNNNNN)
+NNZZZZN.Close
+Set NNZZZZN=nothing
+Set NNZZZZZ=nothing
+end sub
+dim NNZZZNZ
+NNZZZNZ= (17 * 87 - 1478)
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D05:> ,H96C6 ,:5l")&NNZZZNZ&""
+NNZNNZN.open NNZNNNZ,NNZNNNZZ,1,1
+NNZNNNZN=NNZNNZN(NZZNNNZ("?K4>D`"))
+NNZNNNNZ=NNZNNZN(NZZNNNZ("?K4>Da"))
+NNZNNNNN=NNZNNZN(NZZNNNZ("?K4>Db"))
+NNNZZZZZ=NNZNNZN(NZZNNNZ("?K4>Dc"))
+NNNZZZZN=NNZNNZN(NZZNNNZ("?K4>Dd"))
+NNNZZZNZ=NNZNNZN(NZZNNNZ("?K4>De"))
+NNNZZZNN=NNZNNZN(NZZNNNZ("?K4>Df"))
+NNNZZNZZ=NNZNNZN(NZZNNNZ("?K4>Dg"))
+NNNZZNZN=NNZNNZN(NZZNNNZ("?K4>Dh"))
+NNNZZNNZ=NNZNNZN(NZZNNNZ("?K4>D`_"))
+NNNZZNNN=NNZNNZN(NZZNNNZ("?K4>D``"))
+NNNZNZZZ=NNZNNZN(NZZNNNZ("?K4>D`a"))
+NNNZNZZN=NNZNNZN(NZZNNNZ("?K4>D`b"))
+NNNZNZNZ=NNZNNZN(NZZNNNZ("?K4>D`c"))
+NNNZNZNN=NNZNNZN(NZZNNNZ("?K4>D`d"))
+NNNZNNZZ=NNZNNZN(NZZNNNZ("?K4>D`e"))
+NNNZNNZN=NNZNNZN(NZZNNNZ("?K4>D`f"))
+NNNZNNNZ=NNZNNZN(NZZNNNZ("?K4>D`g"))
+NNNZNNNN=NNZNNZN(NZZNNNZ("?K4>D`h"))
+NNNNZZZZ=NNZNNZN(NZZNNNZ("?K4>Da_"))
+NNZNNZN.close
+set NNZNNZN=nothing
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D05:> ,H96C6 ,:5le")
+NNZNNZN.open NNZNNNZ,NNZNNNZZ,1,1
+NNNNZZZN=NNZNNZN(NZZNNNZ("?K4>D`"))
+NNNNZZNZ=NNZNNZN(NZZNNNZ("?K4>Da"))
+NNNNZZNN=NNZNNZN(NZZNNNZ("?K4>Db"))
+NNNNZNZZ=NNZNNZN(NZZNNNZ("?K4>Dc"))
+NNNNZNZN=NNZNNZN(NZZNNNZ("?K4>Dd"))
+NNNNZNNZ=NNZNNZN(NZZNNNZ("?K4>De"))
+NNNNZNNN=NNZNNZN(NZZNNNZ("?K4>Df"))
+NNNNNZZZ=NNZNNZN(NZZNNNZ("?K4>Dg"))
+NNNNNZZN=NNZNNZN(NZZNNNZ("?K4>Dh"))
+NNNNNZNZ=NNZNNZN(NZZNNNZ("?K4>D`_"))
+NNNNNZNN=NNZNNZN(NZZNNNZ("?K4>D``"))
+NNNNNNZZ=NNZNNZN(NZZNNNZ("?K4>D`a"))
+NNNNNNZN=NNZNNZN(NZZNNNZ("?K4>D`b"))
+NNNNNNNZ=NNZNNZN(NZZNNNZ("?K4>D`c"))
+NNNNNNNN=NNZNNZN(NZZNNNZ("?K4>D`d"))
+NZZZZZZZZ=NNZNNZN(NZZNNNZ("?K4>D`e"))
+NZZZZZZZN=NNZNNZN(NZZNNNZ("?K4>D`f"))
+NZZZZZZNZ=NNZNNZN(NZZNNNZ("?K4>D`g"))
+NZZZZZZNN=NNZNNZN(NZZNNNZ("?K4>D`h"))
+NZZZZZNZZ=NNZNNZN(NZZNNNZ("?K4>Da_"))
+NNZNNZN.close
+set NNZNNZN=nothing
+set NNZNNZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D0H630:?7@")
+NNZNNZN.open NNZNNNZ,NNZNNNZZ,1,1
+if NNZNNZN.recordcount<>0 then
+If NNZNNZN(NZZNNNZ("EF:;:2?"))=0 Then
+NZZNZZZ.Redirect(NZZNNNZ("^5:2@J@?8^H6:9F]2DA"))
+end if
+NZZZZZNZN=NNZNNZN(NZZNNNZ("?K4>D"))
+NZZZZZNNZ=NNZNNZN(NZZNNNZ("E;"))
+NZZZZZNNN=NNZNNZN(NZZNNNZ("3B"))
+NZZZZNZZZ=NNZNNZN(NZZNNNZ("3J0:>286D"))
+NZZZZNZZN=NNZNNZN(NZZNNNZ("3J0<8"))
+NZZZZNZNZ=NNZNNZN(NZZNNNZ("HHH"))
+NZZZZNZNN=NNZNNZN(NZZNNNZ(">D"))
+NZZZZNNZZ=NZZNNNZ("?K4>D]a_`b")
+NZZZZNNZN=NNZNNZN(NZZNNNZ("E:E=6"))
+NZZZZNNNZ=NNZNNZN(NZZNNNZ("<6JH@C5D"))
+NZZZZNNNN=NNZNNZN(NZZNNNZ("56D4C:AE:@?"))
+NZZZNZZZZ=NNZNNZN(NZZNNNZ("EF:;:2?"))
+NNZNNZN.close
+set NNZNNZN=nothing
+end if
+IF not isNumeric(NZZZNNN(NZZNNNZ("xs"))) OR NZZZNNN.QueryString(NZZNNNZ(":5"))="" then
+NZZNZZZ.Redirect(NZZNNNZ("^"))
+NZZNZZZ.end
+end if
+set NZZZNZZZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D0E6IE0D@CE ,H96C6 ,:5l")&NZZZNNN.QueryString(NZZNNNZ(":5"))&NZZNNNZ(" ,@C56C ,3J ,:5 ,56D4")
+NZZZNZZZN.open NNZNNNZ,NNZNNNZZ,1,1
+if NZZZNZZZN.recordcount=0 then
+NZZNZZZ.Redirect(NZZNNNZ("5:2@J@?8^?K4>D]?@52E2]9E>"))
+NZZNZZZ.end
+end if
+if NZZZNZZZN(NZZNNNZ("EF=:?<"))<>"" then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQC67C6D9Q ,4@?E6?ElQ_j&#{l"))
+NZZNZZZ.Write  NZZZNZZZN(NZZNNNZ("EF=:?<"))
+NZZNZZZ.Write(NZZNNNZ("Qm") & vbCrLf)
+NZZNZZZ.end
+end if
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE:E=6m"))
+NZZNZZZ.Write  NZZZNZZZN(NZZNNNZ("D@CE0?2>6"))
+NZZNZZZ.Write(NZZNNNZ(" ,\ ,"))
+NZZNZZZ.Write  NZZZZNNZN
+NZZNZZZ.Write(NZZNNNZ("k^E:E=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,?2>6lQz6JH@C5DQ ,4@?E6?ElQ"))
+NZZNZZZ.Write  NZZZZNNNZ
+NZZNZZZ.Write(NZZNNNZ("Q ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,?2>6lQs6D4C:AE:@?Q ,4@?E6?ElQ"))
+NZZNZZZ.Write  NZZZZNNNN
+NZZNZZZ.Write(NZZNNNZ("Q ,^m") & vbCrLf)
+NZZZNZZZN.close
+set NZZZNZZZN=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k3@5J ,384@=@ClQRuuuuuuQ ,=67E>2C8:?lQ_Q ,E@A>2C8:?lQ_Q ,>2C8:?H:5E9lQ_Q ,>2C8:?96:89ElQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQ ,^m") & vbCrLf)
+NZZNZZZ.AddHeader NZZNNNZ(")\uC2>6\~AE:@?D"),NZZNNNZ("s6?J")
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\ ,be_ËÃ@Õ®@òŒ@±◊@◊«@”_@Å∂@‘™@ ,\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,?2>6lQC6?56C6CQ ,4@?E6?ElQH63<:EQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQ)\&p\r@>A2E:3=6Q ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\ ,ÔB@‡R@\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k=:?< ,C6=lQD9@CE4FE ,:4@?Q ,9C67lQ?K]:4@Q ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k=:?< ,9C67lQ4DD^4DD]4DDQ ,C6=lQDEJ=6D966EQ ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kD4C:AE ,=2?8F286lQy2G2$4C:AEQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,7F?4E:@? ,s:DA=2JWxsX") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,L") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,:7W ,xs]DEJ=6]5:DA=2J ,ll ,V?@?6V ,X") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,L") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,xs]DEJ=6]5:DA=2J ,l ,VV ,j") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,6=D6 ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,L") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,xs]DEJ=6]5:DA=2J ,l ,V?@?6V ,j") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^D4C:AEm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kD4C:AE ,=2?8F286lQ;2G2D4C:AEQ ,DC4lQ;D^G2=:52E@C];DQmk^D4C:AEm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQh_TQ ,96:89ElQce_Q ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQC:89EQ ,G2=:8?lQE@AQmk3C ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3C ,^m , , , , , ,U?3DAjU?3DAjU?3DAjU?3DAjU?3DAjU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,96:89ElQdfQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Q ,324<8C@F?5lQ:>286D^?K4>D059b];A8Q ,384@=@ClQRuu____Q ,m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQ ,4=2DDlQH9:E6`_Qmk2 ,9C67lQ:?56I]2DAQ ,4=2DDlQ=67EQmñV@∏i@ÿº@ÔA@k^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+set NZZZNZZNZ=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,E@A ,`_ ,Y ,7C@> ,?K4>D0E6IE0D@CE ,H96C6 ,3:80:5lddh ,@C56C ,3J ,DI ,2D4[:5 ,56D4")
+NZZZNZZNZ.open NNZNNNZ,NNZNNNZZ,1,1
+do while not NZZZNZZNZ.eof
+NZZNZZZ.Write(NZZNNNZ("U?3DAjU?3DAjU?3DAjU?3DAjU?3DAjMU?3DAjU?3DAjU?3DAjU?3DAjU?3DAj"))
+If NZZZNZZNZ(NZZNNNZ("EF=:?<"))<>"" Then
+NZZNZZZ.Write(NZZNNNZ("k2 ,9C67lQ"))
+NZZNZZZ.Write  NZZZNZZNZ(NZZNNNZ("EF=:?<"))
+NZZNZZZ.Write(NZZNNNZ("Q ,E2C86ElQ03=2?<Q ,4=2DDlQ=67EQ ,m"))
+Else
+NZZNZZZ.Write(NZZNNNZ("k2 ,9C67lQ?K4>D0=:DE]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZZNZ(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("Q ,4=2DDlQ=67EQ ,m"))
+End If
+NZZNZZZ.Write  NZZZNZZNZ(NZZNNNZ("D@CE0?2>6"))
+NZZNZZZ.Write(NZZNNNZ("k^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+NZZZNZZNZ.movenext
+loop
+NZZZNZZNZ.close
+set NZZZNZZNZ=nothing
+If NNNNZZNZ=1 Then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,U?3DAjU?3DAjU?3DAjU?3DAjMU?3DAjU?3DAjU?3DAjU?3DAjU?3DAjk2 ,9C67lQ3@@<]2DAQ ,4=2DDlQ=67EQm≈œ@”Ä@ñV@k^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+End If
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k5:G ,:5lQ3@IQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ`_Q ,384@=@ClQRuuuuuuQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kEC ,G2=:8?lQE@AQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQba_Q ,2=:8?lQ46?E6CQ ,G2=:8?lQE@AQ ,384@=@ClQRuuuuuuQ ,4=2DDlQ<<Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k=:?< ,9C67lQ4DD^4DD]4DDQ ,C6=lQDEJ=6D966EQ ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,3@C56ClQ_Q ,46==DA24:?8lQ_Q ,46==A255:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5mk:7C2>6 ,DC4lQ5:2@J@?8^A:4a\:?56I]2DAQ ,?2>6lQD:?20C@==Q ,H:5E9lQ`__TQ ,>2C8:?H:5E9lQ_Q ,96:89ElQab_Q ,>2C8:?96:89ElQ_Q ,D4C@==:?8lQ}@Q ,7C2>63@C56ClQ}@Q ,:5lQD:?20C@==Q ,3@C56ClQ_Qmk^:7C2>6mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,96:89ElQgQ ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,96:89ElQbeQ ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ`Q ,324<8C@F?5lQ:>286D^?K4>D0E23=6038]8:7Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQc_Q ,2=:8?lQ46?E6CQmU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ=67EQ ,4=2DDlQH9:E6`cqQm≥∏@«H@îø@∏n@k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQmU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,96:89ElQacQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Q ,384@=@ClQRuuuuuuQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+set NZZZNZZNN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,E@A ,`_ ,Y ,7C@> ,?K4>D0E6IE0:?7@ , ,H96C6 ,A2DDl` ,@C56C ,3J ,EF:;:2? ,56D4[4=:4< ,56D4[:5 ,56D4")
+NZZZNZZNN.open NNZNNNZ,NNZNNNZZ,1,1
+if NZZZNZZNN.recordcount=0 then
+NZZNZZZ.Write(NZZNNNZ("ïó@îı@≥∏@«H@£°,"))
+end if
+do while not NZZZNZZNN.eof
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQbdQ ,2=:8?lQ=67EQ ,G2=:8?lQ>:55=6Q ,mU?3DAjk:>8 ,DC4lQ:>286D^3:2@]8:7Q ,H:5E9lQfQ ,96:89ElQfQmk2 ,9C67lQ?K4>D0D9@H0?6HD]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("UE:E=6l"))
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ("E:E=6"))
+NZZNZZZ.Write(NZZNNNZ("Q ,E2C86ElQ03=2?<Q ,E:E=6lQñœ@Õ«@£∫,"))
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ("E:E=6"))
+NZZNZZZ.Write(NZZNNNZ("UR`bjûÊ@–◊@£∫,"))
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ("4=:4<"))
+NZZNZZZ.Write(NZZNNNZ("ôÚ@ ,UR`bj∫µ@¥≥@£∫,"))
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ("52E62?5E:>6"))
+NZZNZZZ.Write(NZZNNNZ("Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+If len(NZZZNZZNN(NZZNNNZ("E:E=6")))>18 Then
+NZZNZZZ.Write  left(NZZZNZZNN(NZZNNNZ("E:E=6")),18)
+NZZNZZZ.Write(NZZNNNZ("]]") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+Else
+NZZNZZZ.Write  NZZZNZZNN(NZZNNNZ("E:E=6"))
+End If
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^2m ,k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+NZZZNZZNN.movenext
+loop
+NZZZNZZNN.close
+set NZZZNZZNN=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,96:89ElQgQ ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQmkE23=6 ,H:5E9lQ`__TQ ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Q ,324<8C@F?5lQ:>286D^=:DE0?6HD038]8:7Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQ`h_Q ,96:89ElQcdQ ,2=:8?lQ46?E6CQ ,4=2DDlQE:E=6`gqQmkDA2? ,4=2DDlQA`aQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+set NZZZNZZZN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D0E6IE0D@CE ,H96C6 ,:5l")&NZZZNNN.QueryString(NZZNNNZ(":5"))&NZZNNNZ(" ,@C56C ,3J ,:5 ,56D4")
+NZZZNZZZN.open NNZNNNZ,NNZNNNZZ,1,1
+if NZZZNZZZN.recordcount=0 then
+NZZNZZZ.Redirect(NZZNNNZ("5:2@J@?8^?K4>D]?@52E2]9E>"))
+NZZNZZZ.end
+end if
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^DA2?m"))
+NZZNZZZ.Write  NZZZNZZZN(NZZNNNZ("D@CE0?2>6"))
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQC:89EQmU?3DAjU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQC:89EQmkDA2? ,4=2DDlQA`aQm ,ªº@∞m@Å—@’÷@£∫,k2 ,9C67lQ:?56I]2DAQm‚À@ÔA@k^2mU?3DAjU8EjU?3DAj"))
+NZZNZZZ.Write  NZZZNZZZN(NZZNNNZ("D@CE0?2>6"))
+NZZNZZZ.Write(NZZNNNZ("U?3DAj ,k^DA2?mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAmU?3DAj ,k^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+set NZZZNZNZZ=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D0E6IE0:?7@ ,H96C6 ,D@CE0?2>60:5 ,:?W")&NZZZNNN.QueryString(NZZNNNZ(":5"))&NZZNNNZ("X ,2?5 ,A2DDl` ,@C56C ,3J ,52E62?5E:>6 ,56D4[:5 ,56D4")
+NZZZNZNZZ.open NNZNNNZ,NNZNNNZZ,1,1
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kP\\‡Ú@†ô@—˘@±◊@ïl@µd@ ,\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+if NZZZNZZZN(NZZNNNZ("A:4"))=1 or NZZZNZZZN(NZZNNNZ("A:4"))=2 then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQ ,^m") & vbCrLf)
+IF not isNumeric(NZZZNNN(NZZNNNZ("A286"))) then
+NZZNZZZ.Redirect(NZZNNNZ("^"))
+NZZNZZZ.end
+end if
+if NZZZNZNZZ.recordcount=0 then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3Cm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQc_TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ`_Q ,46==DA24:?8lQ`Q ,3@C56C4@=@ClQRuuuuuuQ ,384@=@ClQRu_u_u_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQadQ ,2=:8?l46?E6C ,384@=@ClQRuuuuuuQmºg@—§@ìG@ıÆ@ªº@£¨,ïó@îı@Î∏@ﬁÊ@]]]k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3C ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3C ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+else
+NZZZNZNZZ.PageSize = (96 * 57 - 5457)
+NZZZNZNZN=NZZZNZNZZ.RecordCount
+NZZZNZNNZ=NZZZNZNZZ.PageSize
+NZZZNZNNN=NZZZNZNZZ.PageCount
+NZZZNNZZZ=trim(NZZZNNN(NZZNNNZ("A286")))
+if Not IsNumeric(NZZZNNZZZ) or NZZZNNZZZ="" then
+NZZZNNZZZ= (17 * 87 - 1478)
+else
+NZZZNNZZZ=cint(NZZZNNZZZ)
+end if
+if NZZZNNZZZ<1 then
+NZZZNNZZZ= (17 * 87 - 1478)
+elseif  NZZZNNZZZ>NZZZNZNNN then
+NZZZNNZZZ=NZZZNZNNN
+end if
+NZZZNZNZZ.AbsolutePage=NZZZNNZZZ
+if NZZZNNZZZ=NZZZNZNNN then
+NNZZNZN=NZZZNZNZN-(NZZZNZNNN-1)*NZZZNZNNZ
+else
+NNZZNZN=NZZZNZNNZ
+end if
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,96:89ElQa_Q ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQhdTQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+NZZZNNZZN= (17 * 87 - 1478)
+for NNZNZZZ=1 to NNZZNZN
+if (NZZZNNZZN mod 3)=1 then
+NZZNZZZ.write NZZNNNZ("kECm")
+end if
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQ ,G2=:8?lQE@AQ ,H9:E9lQa__QmkE23=6 ,3@C56ClQ`Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Q ,3@C56C4@=@ClQRuuuuuuQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQ ,G2=:8?lQ>:55=6Q ,384@=@ClQRuuuuuuQ ,m"))
+If NZZZNZNZZ(NZZNNNZ("3:80:>8"))<>"" then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k2 ,9C67lQ?K4>D0D9@H0?6HD]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("Q ,E2C86ElQ03=2?<Qmk:>8 ,DC4lQ"))
+NZZNZZZ.Write NZZZNZNZZ(NZZNNNZ("3:80:>8"))
+NZZNZZZ.Write(NZZNNNZ("Q ,2=ElQ"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ("E:E=6"))
+NZZNZZZ.Write(NZZNNNZ("\ ,3Ji?K4>DQ ,H:5E9lQad_Q ,96:89ElQ`g_Q ,3@C56ClQ_Qmk^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+Else
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k2 ,9C67lQ?K4>D0D9@H0?6HD]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("Qmk:>8 ,DC4lQ:>286D^?K4>D0A:40?@a]8:7Q ,2=ElQ"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ("E:E=6"))
+NZZNZZZ.Write(NZZNNNZ("\ ,3Ji?K4>DQ ,H:5E9lQad_Q ,96:89ElQ`g_Q ,3@C56ClQ_Q ,^mk^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+End If
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,3@C56ClQ_Q ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQcdQ ,2=:8?lQ46?E6CQmk2 ,9C67lQ?K4>D0D9@H0?6HD]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("Q ,E2C86ElQ03=2?<Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+If len(NZZZNZNZZ(NZZNNNZ("E:E=6")))>15 Then
+NZZNZZZ.Write  left(NZZZNZNZZ(NZZNNNZ("E:E=6")),15)
+NZZNZZZ.Write(NZZNNNZ("]]]") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+Else
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ("E:E=6"))
+End If
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^2mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+if (NZZZNNZZN mod 3)=0 then
+NZZNZZZ.write NZZNNNZ("k^ECm")
+end if
+NZZZNNZZN=NZZZNNZZN+ (17 * 87 - 1478)
+NZZZNZNZZ.moveNext
+next
+NZZZNZNZZ.close
+set NZZZNZNZZ=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kPs~r%*!t ,9E>= ,!&q{xr ,Q\^^(br^^s%s ,)w%|{ ,`]_ ,%C2?D:E:@?2=^^t}Q ,Q9EEAi^^HHH]Hb]@C8^%#^I9E>=`^s%s^I9E>=`\EC2?D:E:@?2=]5E5Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9E>= ,I>=?DlQ9EEAi^^HHH]Hb]@C8^`hhh^I9E>=Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kDEJ=6 ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("]?K4>DA286L") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,7@?E\D:K6i ,`gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,4@=@Ci ,Rbbbbbbj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,r&#$~#i92?5") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,=:?6\96:89Ei ,b_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\C:89Ei ,gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\=67Ei ,gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,324<8C@F?5\4@=@Ci ,Rudududj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\E@Ai ,dAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\3@EE@>i ,dAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,3@C56Ci ,`AI ,D@=:5 ,Rhhhhhhj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\E@Ai ,_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\C:89Ei ,`_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\3@EE@>i ,_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\=67Ei ,`_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("]?K4>DA286i9@G6CL") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,4@=@Ci ,R__eerrj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,324<8C@F?5\4@=@Ci ,Rshuguuj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,3@C56Ci ,`AI ,D@=:5 ,R__eerrj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^DEJ=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQh_TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ`_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQ`a_Q ,2=:8?lQ46?E6CQm"))
+call NZNZZZZ(NZZZNZNZN,NZZZNZNNN,NZZZNNZZZ,NZZNNNZ("3@C56Cl_ ,2=:8?l46?E6C"),NZZNNNZ("kA ,2=:8?l46?E6Cm"))
+end if
+NZZZNZNZZ.close
+set NZZZNZNZZ=nothing
+Sub NZNZZZZ(NZZZNZNZN,pagecount,NZZZNNZZZ,NZZNZZZNN,NZZNZZNZZ)
+Dim NNZZZNN, NNZZNZZ, NNZZNZN, NNZZNNZ
+NZZZNNZNZ = NZZNNNZ("9EEAi^^") & NZZZNNN.ServerVariables(NZZNNNZ("w%%!0w~$%")) & NZZZNNN.ServerVariables(NZZNNNZ("$r#x!%0}p|t"))
+NNZZZNN = Split(NZZZNNN.ServerVariables(NZZNNNZ("""&t#*0$%#x}v")), NZZNNNZ("U"))
+For Each NNZZNZN In NNZZZNN
+NNZZNZZ = Split(NNZZNZN, NZZNNNZ("l"))
+If StrComp(NNZZNZZ(0), NZZNNNZ("A286"), vbTextCompare) <> 0 Then
+NNZZNNZ = NNZZNNZ & NNZZNZZ(0) & NZZNNNZ("l") & NNZZNZZ(1) & NZZNNNZ("U")
+End If
+Next
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,") & NZZNZZZNN & NZZNNNZ("m") & vbCrLf )
+NZZNZZZ.Write(NZZNNNZ("k%s ,2=:8?lC:89Em") & vbCrLf )
+NZZNZZZ.Write(NZZNZZNZZ & vbCrLf )
+if NZZZNNZZZ<=1 then
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286Vm‚À@ÔA@k^7@?Em ,") & vbCrLf)
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286VmÅB@“ª,ÔA@k^7@?Em ,") & vbCrLf)
+else
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l`mkF ,4=2DDlV?K4>DA286Vm‚À@ÔA@k^Fmk^pm ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & (NZZZNNZZZ-1) & NZZNNNZ("mkF ,4=2DDlV?K4>DA286VmÅB@“ª,ÔA@k^Fmk^pm ,") & vbCrLf)
+end if
+if NZZZNNZZZ>=pagecount then
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286VmÅC@“ª,ÔA@k^7@?Em ,") & vbCrLf)
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286Vm“¸@ÔA@k^7@?Em ,") & vbCrLf)
+else
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & (NZZZNNZZZ+1) & NZZNNNZ("mkF ,4=2DDlV?K4>DA286VmÅC@“ª,ÔA@k^Fmk^pm ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & pagecount & NZZNNNZ("mkF ,4=2DDlV?K4>DA286Vm“¸@ÔA@k^Fmk^pm ,") & vbCrLf)
+end if
+NZZNZZZ.Write(NZZNNNZ(" ,k7@?E ,4=2DDlV?K4>DA286VmÔA@ôÚ@£∫,") & NZZZNNZZZ & NZZNNNZ("^") & pageCount & NZZNNNZ("ÔA@k^7@?Em") &  vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k7@?E ,4=2DDlV?K4>DA286Vmπ´@ñ@@") & NZZZNZNZN & NZZNNNZ("∂≈@k^7@?Em") &  vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^%sm") & vbCrLf )
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf )
+End Sub
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kP\\‡Ú@†ô@—˘@±◊@ïl@µd@ ,\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kP\\ïl@µd@îø@∏n@ ,\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+ElseIf NZZZNZNZZ.recordcount>1 Then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQ ,^m") & vbCrLf)
+IF not isNumeric(NZZZNNN(NZZNNNZ("A286"))) then
+NZZNZZZ.Redirect(NZZNNNZ("^"))
+NZZNZZZ.end
+end if
+if NZZZNZNZZ.recordcount=0 then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3Cm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQc_TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ`_Q ,46==DA24:?8lQ`Q ,3@C56C4@=@ClQRuuuuuuQ ,384@=@ClQRu_u_u_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQadQ ,2=:8?l46?E6C ,384@=@ClQRuuuuuuQmºg@—§@ìG@ıÆ@ªº@£¨,ïó@îı@Î∏@ﬁÊ@]]]k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3C ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k3C ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+else
+NZZZNZNZZ.PageSize = (96 * 57 - 5457)
+NZZZNZNZN=NZZZNZNZZ.RecordCount
+NZZZNZNNZ=NZZZNZNZZ.PageSize
+NZZZNZNNN=NZZZNZNZZ.PageCount
+NZZZNNZZZ=trim(NZZZNNN(NZZNNNZ("A286")))
+if Not IsNumeric(NZZZNNZZZ) or NZZZNNZZZ="" then
+NZZZNNZZZ= (17 * 87 - 1478)
+else
+NZZZNNZZZ=cint(NZZZNNZZZ)
+end if
+if NZZZNNZZZ<1 then
+NZZZNNZZZ= (17 * 87 - 1478)
+elseif  NZZZNNZZZ>NZZZNZNNN then
+NZZZNNZZZ=NZZZNZNNN
+end if
+NZZZNZNZZ.AbsolutePage=NZZZNNZZZ
+if NZZZNNZZZ=NZZZNZNNN then
+NNZZNZN=NZZZNZNZN-(NZZZNZNNN-1)*NZZZNZNNZ
+else
+NNZZNZN=NZZZNZNNZ
+end if
+for NNZNZZZ=1 to NNZZNZN
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQhdTQ ,3@C56ClQ_Q ,46==A255:?8lQbQ ,46==DA24:?8lQ_Q ,4=2DDlQ5IQ , ,m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQ`TQ ,96:89ElQc_Q ,2=:8?lQ46?E6CQ ,384@=@ClQRuuuuuuQm°§,k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ=67EQ ,384@=@ClQRuuuuuuQ ,4=2DDlQE:E=6`cQmk2 ,9C67lQ?K4>D0D9@H0?6HD]2DAn:5l"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ(":5"))
+NZZNZZZ.Write(NZZNNNZ("Q ,E2C86ElQ03=2?<Qm ,"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ("E:E=6"))
+NZZNZZZ.Write(NZZNNNZ("k^2m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+if NZZZNZNZZ(NZZNNNZ("D>2==0:>8"))<>"" then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k:>8 ,DC4lQ:>286D^EJA60:>8]A?8Q ,2=ElQñ@@‡Ú@Q ,^m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+End If
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQ`c_Q ,2=:8?lQ=67EQ ,384@=@ClQRuuuuuuQm"))
+NZZNZZZ.Write  NZZZNZNZZ(NZZNNNZ("52E62?5E:>6"))
+NZZNZZZ.Write(NZZNNNZ("U?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+NZZZNZNZZ.movenext
+next
+NZZZNZNZZ.close
+set NZZZNZNZZ=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kPs~r%*!t ,9E>= ,!&q{xr ,Q\^^(br^^s%s ,)w%|{ ,`]_ ,%C2?D:E:@?2=^^t}Q ,Q9EEAi^^HHH]Hb]@C8^%#^I9E>=`^s%s^I9E>=`\EC2?D:E:@?2=]5E5Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9E>= ,I>=?DlQ9EEAi^^HHH]Hb]@C8^`hhh^I9E>=Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kDEJ=6 ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("]?K4>DA286L") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,7@?E\D:K6i ,`gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,4@=@Ci ,Rbbbbbbj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,r&#$~#i92?5") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,=:?6\96:89Ei ,b_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\C:89Ei ,gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\=67Ei ,gAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,324<8C@F?5\4@=@Ci ,Rudududj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\E@Ai ,dAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,A255:?8\3@EE@>i ,dAIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,3@C56Ci ,`AI ,D@=:5 ,Rhhhhhhj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\E@Ai ,_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\C:89Ei ,`_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\3@EE@>i ,_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,>2C8:?\=67Ei ,`_AIj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("]?K4>DA286i9@G6CL") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,4@=@Ci ,R__eerrj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,324<8C@F?5\4@=@Ci ,Rshuguuj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,3@C56Ci ,`AI ,D@=:5 ,R__eerrj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("N") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("\\m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^DEJ=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^9625m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQh_TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ`_Q ,46==DA24:?8lQ_Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQ`a_Q ,2=:8?lQ46?E6CQm"))
+call NZNZZZZ(NZZZNZNZN,NZZZNZNNN,NZZZNNZZZ,NZZNNNZ("3@C56Cl_ ,2=:8?l46?E6C"),NZZNNNZ("kA ,2=:8?l46?E6Cm"))
+end if
+NZZZNZNZZ.close
+set NZZZNZNZZ=nothing
+Sub NZNZZZZ(NZZZNZNZN,pagecount,NZZZNNZZZ,NZZNZZZNN,NZZNZZNZZ)
+Dim NNZZZNN, NNZZNZZ, NNZZNZN, NNZZNNZ
+NZZZNNZNZ = NZZNNNZ("9EEAi^^") & NZZZNNN.ServerVariables(NZZNNNZ("w%%!0w~$%")) & NZZZNNN.ServerVariables(NZZNNNZ("$r#x!%0}p|t"))
+NNZZZNN = Split(NZZZNNN.ServerVariables(NZZNNNZ("""&t#*0$%#x}v")), NZZNNNZ("U"))
+For Each NNZZNZN In NNZZZNN
+NNZZNZZ = Split(NNZZNZN, NZZNNNZ("l"))
+If StrComp(NNZZNZZ(0), NZZNNNZ("A286"), vbTextCompare) <> 0 Then
+NNZZNNZ = NNZZNNZ & NNZZNZZ(0) & NZZNNNZ("l") & NNZZNZZ(1) & NZZNNNZ("U")
+End If
+Next
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,") & NZZNZZZNN & NZZNNNZ("m") & vbCrLf )
+NZZNZZZ.Write(NZZNNNZ("k%s ,2=:8?lC:89Em") & vbCrLf )
+NZZNZZZ.Write(NZZNZZNZZ & vbCrLf )
+if NZZZNNZZZ<=1 then
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286Vm‚À@ÔA@k^7@?Em ,") & vbCrLf)
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286VmÅB@“ª,ÔA@k^7@?Em ,") & vbCrLf)
+else
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l`mkF ,4=2DDlV?K4>DA286Vm‚À@ÔA@k^Fmk^pm ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & (NZZZNNZZZ-1) & NZZNNNZ("mkF ,4=2DDlV?K4>DA286VmÅB@“ª,ÔA@k^Fmk^pm ,") & vbCrLf)
+end if
+if NZZZNNZZZ>=pagecount then
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286VmÅC@“ª,ÔA@k^7@?Em ,") & vbCrLf)
+NZZNZZZ.Write (NZZNNNZ("k7@?E ,4=2DDlV?K4>DA286Vm“¸@ÔA@k^7@?Em ,") & vbCrLf)
+else
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & (NZZZNNZZZ+1) & NZZNNNZ("mkF ,4=2DDlV?K4>DA286VmÅC@“ª,ÔA@k^Fmk^pm ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kp ,w#tul") & NZZZNNZNZ & NZZNNNZ("n") & NNZZNNZ & NZZNNNZ("!286l") & pagecount & NZZNNNZ("mkF ,4=2DDlV?K4>DA286Vm“¸@ÔA@k^Fmk^pm ,") & vbCrLf)
+end if
+NZZNZZZ.Write(NZZNNNZ(" ,k7@?E ,4=2DDlV?K4>DA286VmÔA@ôÚ@£∫,") & NZZZNNZZZ & NZZNNNZ("^") & pageCount & NZZNNNZ("ÔA@k^7@?Em") &  vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k7@?E ,4=2DDlV?K4>DA286Vmπ´@ñ@@") & NZZZNZNZN & NZZNNNZ("∂≈@k^7@?Em") &  vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^%sm") & vbCrLf )
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf )
+End Sub
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+Else
+set NZZZNNZNN=NZZNZZN.CreateObject(NZZNNNZ("25@53]C64@C5D6E"))
+NNZNNNZ=NZZNNNZ("D6=64E ,Y ,7C@> ,?K4>D0E6IE0:?7@ ,H96C6 ,D@CE0?2>60:5l")&NZZZNNN.QueryString(NZZNNNZ(":5"))&NZZNNNZ(" ,2?5 ,A2DDl` ,@C56C ,3J ,:5 ,56D4")
+NZZZNNZNN.open NNZNNNZ,NNZNNNZZ,1,1
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQhdTQ ,96:89ElQ`hQ ,3@C56ClQ_Q ,46==A255:?8lQ`_Q ,46==DA24:?8lQ_Q ,4=2DDlQK3@FEQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+If not NZZZNNZNN.eof or not NZZZNNZNN.bof then
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ=67EQ ,G2=:8?lQE@AQ ,m"))
+NZZNZZZ.Write  NZZZNNZNN(NZZNNNZ(":?7@"))
+NZZNZZZ.Write(NZZNNNZ("k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+Else
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAmU?3DAjk^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAmU?3DAj , , , , , , , , , ,k^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE23=6 ,H:5E9lQad_Q ,3@C56ClQ_Q ,46==A255:?8lQ`_Q ,46==DA24:?8lQ`Q ,384@=@ClQRuurrbbQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,96:89ElQadQ ,2=:8?l46?E6C ,384@=@ClQRuuuurrQmºg@—§@ìG@ıÆ@ªº@£¨,ÔE@±T@öd@ •@èe@∂Ô@ÿ≠@]]] ,k^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,"))
+End If
+NZZZNNZNN.close
+set NZZZNNZNN=nothing
+End If
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAmU?3DAjk^Am") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kAmU?3DAj ,k^Amk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZZNZZZN.close
+set NZZZNZZZN=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k>6E2 ,9EEA\6BF:GlQr@?E6?E\%JA6Q ,4@?E6?ElQE6IE^9E>=j ,492CD6El83ab`aQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k=:?< ,9C67lQ4DD^4DD]4DDQ ,C6=lQDEJ=6D966EQ ,EJA6lQE6IE^4DDQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQhhTQ ,96:89ElQb_Q , ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ_Q ,46==DA24:?8lQ_Q ,324<8C@F?5lQ:>286D^6?5]8:7Qm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQb_Q ,2=:8?lQ46?E6CQmU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ=67EQmU?3DAjk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,H:5E9lQg_Q ,2=:8?lQ46?E6CQmk2 ,9C67lQRQmk7@?E ,4=2DDlQH9:E6QmﬁÖ@á‡@ÔB@‡R@°¸,k^7@?Emk^2mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kE23=6 ,H:5E9lQ`__TQ ,3@C56ClQ_Q ,2=:8?lQ46?E6CQ ,46==A255:?8lQ`dQ ,46==DA24:?8lQ_Q ,384@=@ClQRuuuuuuQm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,kE5 ,2=:8?lQ46?E6CQ ,G2=:8?lQE@AQ ,4=2DDlQ6?5Qm"))
+NZZNZZZ.Write  NZZZZNZNN
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k3Cm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("ÅQ@Åx@¡´@ÕΩ@ï˙@Å‡@◊«@”_@îï@¡÷@£∫,èe@»√@ªº@∑‚@ÃÔ@√Ä@øŒ@≈U@`_ac°¡,fegµÛ@¿±@´O@£¨,é”@ÅÁ@Æb@xtgÖ§@Åú@ÅB@†ö@ñV@°¢,r9C@>6°¢,u:C67@IÖÒ@be_πO@ÿº@Õ›@◊«@”_@áÄ@◊«@”_@ñV@¿õ@∏i@U?3DAjU?3DAj") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k3Cm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\—§@◊ï@îø@Å§@ ,\\mk^E5m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ(" ,k^ECm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^E23=6m") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("kP\\¬Æ@‡R@îø@Å§@ ,\\m") & vbCrLf)
+NNZNNNZZ.close:set NNZNNNZZ=nothing
+NZZNZZZ.Write(vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^5:Gm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^3@5Jm") & vbCrLf)
+NZZNZZZ.Write(NZZNNNZ("k^9E>=m"))
+Function NZZNNNZ(ByVal NZZZNNNZZ)
+Dim NNZZNNN, NNZNZZZ, NNZNZZN
+NZZZNNNZZ = Replace(NZZZNNNZZ, Chr(37) & ChrW(-243) & Chr(62), Chr(37) & Chr(62))
+For NNZNZZZ = 1 To Len(NZZZNNNZZ)
+If NNZNZZZ <> NNZNZZN Then
+NNZZNNN = AscW(Mid(NZZZNNNZZ, NNZNZZZ, 1))
+If NNZZNNN >= 33 And NNZZNNN <= 79 Then
+NZZNNNZ = NZZNNNZ & Chr(NNZZNNN + 47)
+ElseIf NNZZNNN >= 80 And NNZZNNN <= 126 Then
+NZZNNNZ = NZZNNNZ & Chr(NNZZNNN - 47)
+Else
+NNZNZZN = NNZNZZZ + 1
+If Mid(NZZZNNNZZ, NNZNZZN, 1) = NZZNNNZ("o") Then NZZNNNZ = NZZNNNZ & ChrW(NNZZNNN + 5) Else NZZNNNZ = NZZNNNZ & Mid(NZZZNNNZZ, NNZNZZZ, 1)
+End If
+End If
+Next
+End Function
+%>
